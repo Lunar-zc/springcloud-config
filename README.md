@@ -1,2 +1,2 @@
 # springcloud-config
-服务配置
+springcloud-config的配置中心
